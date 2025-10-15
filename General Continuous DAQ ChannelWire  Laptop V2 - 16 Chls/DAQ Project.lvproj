@@ -45,6 +45,7 @@
 			<Item Name="DAQ Channel Dlg_V0.vi" Type="VI" URL="../SubVi/DAQ Channel Dlg_V0.vi"/>
 			<Item Name="DAQ Manager.vi" Type="VI" URL="../SubVi/DAQ Manager.vi"/>
 			<Item Name="Data Display Manager.vi" Type="VI" URL="../SubVi/Data Display Manager.vi"/>
+			<Item Name="Digital Output.vi" Type="VI" URL="../SubVi/Digital Output.vi"/>
 			<Item Name="Enable UI.vi" Type="VI" URL="../SubVi/Enable UI.vi"/>
 			<Item Name="File Manager.vi" Type="VI" URL="../SubVi/File Manager.vi"/>
 			<Item Name="FilesNameDefine_V0.vi" Type="VI" URL="../SubVi/FilesNameDefine_V0.vi"/>
@@ -54,6 +55,7 @@
 			<Item Name="Loop Error Stop.vi" Type="VI" URL="../SubVi/Loop Error Stop.vi"/>
 			<Item Name="PhyicalChannelConvertor_V0.vi" Type="VI" URL="../SubVi/PhyicalChannelConvertor_V0.vi"/>
 			<Item Name="SetUpPlotLegend_V0.vi" Type="VI" URL="../SubVi/SetUpPlotLegend_V0.vi"/>
+			<Item Name="Start or Stop Cryo.vi" Type="VI" URL="../SubVi/Start or Stop Cryo.vi"/>
 			<Item Name="Volt Data with Time Data.vi" Type="VI" URL="../SubVi/Volt Data with Time Data.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
